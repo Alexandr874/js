@@ -85,11 +85,11 @@ writeYourGenres: function() {
  };
 
 
- //personalMovieDB.start();
- //personalMovieDB.questionsAboutMovies();
- //personalMovieDB.movieStatistics();
- //personalMovieDB.showMyDB(personalMovieDB.privat);
- //personalMovieDB.toggleVisible();
+ personalMovieDB.start();
+ personalMovieDB.questionsAboutMovies();
+ personalMovieDB.movieStatistics();
+ personalMovieDB.showMyDB(personalMovieDB.privat);
+ personalMovieDB.toggleVisible();
  personalMovieDB.writeYourGenres();
 
  
